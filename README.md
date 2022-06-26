@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...ai,machine learning and many more things
 - 🌱 I’m currently learning ...Python,C++
 - 💞️ I’m looking to collaborate on ..Machine Learning and A.I.
-- 📫 How to reach me ...https://www.reddit.com/user/hiyounis16
+- 📫 Reach me on Discord Radian#5652
 
 <!---
 Eva-nov/Eva-nov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
